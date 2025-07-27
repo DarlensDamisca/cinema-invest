@@ -128,3 +128,21 @@ Notre entreprise souhaite créer un nouveau studio de cinéma mais manque d'expe
 ---
 
 ## 📁 Structure du Projet
+
+├── README.md                          # Documentation principale
+├── data/                             # Données et outputs
+│   ├── im.db/                        # Base IMDB SQLite
+│   ├── bom.movie_gross.csv.gz        # Données Box Office
+│   ├── dataset_unifie_clean.csv     # Dataset final nettoyé
+│   ├── insights_cles.csv            # Résumé des insights
+│   └── presentation_data.json       # Données pour présentation
+├── images/                           # Visualisations
+│   ├── visualisation_1_genres.png   # Analyse genres
+│   ├── visualisation_2_duree.png    # Analyse durée
+│   └── visualisation_3_notes.png    # Analyse qualité
+├── notebooks/                        # Notebooks Jupyter
+│   ├── 01_exploration_donnees.ipynb # Phase 2: Exploration
+│   ├── 02_analyse_exploratoire.ipynb# Phase 3: Analyse
+│   └── notebook_final.ipynb         # Notebook consolidé
+├── presentation.pdf                  # Présentation business
+└── resume_executif.txt              # Résumé pour dirigeants
