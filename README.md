@@ -77,21 +77,22 @@ Notre entreprise souhaite créer un nouveau studio de cinéma mais manque d'expe
 - Écart de XX% entre le genre le plus et le moins rentable
 - Corrélation entre volume de production et rentabilité
 
-### 2. Durée Optimale vs Performance  
-![Visualisation 2](images/visualisation_2_duree.png)
 
-**Insights :**
-- Sweet spot identifié : XX-XX minutes
-- Les films trop courts/longs sous-performent de XX%
-- Durée optimale varie selon le genre
-
-### 3. Impact des Notes sur le Succès
-![Visualisation 3](images/visualisation_3_notes.png)
+### 2. Impact des Notes sur le Succès
+![Visualisation 3](images/visualisation_2_notes.png)
 
 **Insights :**
 - Corrélation qualité-revenus : X.XX
 - Seuil critique : X.X/10 pour rentabilité optimale
 - XX% des top revenus sont aussi bien notés
+
+### 3. Durée Optimale vs Performance  
+![Visualisation 2](images/visualisation_3_duree.png)
+
+**Insights :**
+- Sweet spot identifié : XX-XX minutes
+- Les films trop courts/longs sous-performent de XX%
+- Durée optimale varie selon le genre
 
 ---
 
