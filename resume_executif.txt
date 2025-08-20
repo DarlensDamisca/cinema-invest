@@ -1,0 +1,25 @@
+
+RÉSUMÉ EXÉCUTIF - ANALYSE DE MARCHÉ CINÉMATOGRAPHIQUE
+=====================================================
+
+Date d'analyse : 2025-07-27
+Période des données : 2010-2018
+Films analysés : 1988
+
+RECOMMANDATIONS CLÉS :
+
+1. GENRE PRIORITAIRE : Adventure
+   - Revenus moyens : $276.2M
+   - Justification : Performance supérieure démontrée
+
+2. DURÉE OPTIMALE : Long (120-150)
+   - Maximise les revenus et l'acceptation audience
+   - Compatible avec les standards de diffusion
+
+3. STRATÉGIE QUALITÉ : Excellent (8+)
+   - Corrélation qualité-revenus : 0.197
+   - Équilibre optimal entre critique et commercial
+
+IMPACT FINANCIER ESTIMÉ :
+- Gain potentiel par film : +$174.7M
+- ROI de la stratégie : Optimisation sur 3 dimensions critiques
